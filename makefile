@@ -3,3 +3,6 @@ all: pairs.cpp
 
 clean:
 	rm -f pairs
+
+count:
+	wc pairs.cpp
