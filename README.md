@@ -27,7 +27,7 @@ then the output is
 
 ## Restrictions and Assumptions
 - No more than 2000 characters (see `make count`)
-- Complexity at most O(logn)
+- Complexity at most O(nlogn)
 - Not required: big integers, input validation
 
 ## Makefile
